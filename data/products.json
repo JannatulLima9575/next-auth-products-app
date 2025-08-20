@@ -1,0 +1,14 @@
+[
+{
+"id": "p1",
+"name": "Wireless Headphones",
+"description": "Comfortable over-ear Bluetooth headphones with long battery life.",
+"price": 99.99
+},
+{
+"id": "p2",
+"name": "Mechanical Keyboard",
+"description": "Hot-swappable keys, RGB backlight, and aluminum frame.",
+"price": 129.0
+}
+]
